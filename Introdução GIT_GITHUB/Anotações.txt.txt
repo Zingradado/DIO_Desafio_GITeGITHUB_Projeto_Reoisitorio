@@ -1,0 +1,8 @@
+O que é github e qual a sua importância para a programação?
+Link de acesso https://www.digitalhouse.com/br/blog/o-que-e-github/
+
+Comandos Básicos para bom desempenho no terminal.
+link de acesso https://www.uniaogeek.com.br/guia-de-comandos-cmd-terminal-do-windows/
+
+Alguns Tópicos sobre o funcionamento do GIT.
+Link de acesso https://mazer.dev/git-basico/
